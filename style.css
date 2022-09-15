@@ -1,0 +1,272 @@
+.LogoFavicon{
+  border-radius: 1px;
+  padding: 5px;
+}
+body{
+  
+  overflow-x:hidden;
+background-image: url(Images/imageonline-co-blurimage.jpg);
+position: absolute;
+}
+
+#Nosfilms{
+    
+
+    margin-top: -125px;
+    margin-left: -1300px;
+    font-size:30px;
+    }
+header{
+  
+  background-color: #706b64;
+}
+
+nav{
+    position: static;
+    width: 235px;
+    background-color: #706b64;
+    box-shadow: 10px 6px 5px #1c1a19;
+    border-radius: 1px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 100px;
+    padding-left: -100px
+   
+    }
+a:link { 
+ text-decoration:none; 
+ color: white;
+} 
+
+#Comedie2{
+text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: white;
+text-transform: none;
+}
+
+
+  #Comedie{
+text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #585858;
+text-transform: none;
+
+	}
+	#Disney{
+text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #585858;
+text-transform: none;
+
+	}
+  #Disney2{
+text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: white;
+text-transform: none;
+
+  }
+	#Anime{
+text-decoration: none;       
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #585858;
+text-transform: none;
+
+}
+#Anime2{
+text-decoration: none;       
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: white;
+text-transform: none;
+
+}
+    #Action{
+    	text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #585858;
+text-transform: none;
+    }
+    #Action2{
+text-decoration: none;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: white;
+text-transform: none;
+    }
+    #Comedie:hover{
+
+    background-color:#ecf0f1;
+}
+#Disney:hover{
+
+    background-color:#ecf0f1;
+ }
+#Anime:hover{
+
+    background-color:#ecf0f1;
+
+ }
+#Action:hover{
+
+    background-color:#ecf0f1;
+}
+ #Auteur{
+text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+padding:10px 15px;
+background-color: #95a5a6;
+text-transform: none;
+ }
+
+h2{
+  margin: 300px 900px;
+  margin-top: -900px;
+}
+
+
+#endgame{
+  margin: -750px -1500px;
+}
+#Spider_man{
+  margin:-750px -1100px;
+}
+#Tenet{
+  margin: -750px -700px;
+}
+#Intouchables{
+  margin: -400px -1510px;
+
+}
+#titans{
+  margin: -400px -1110px;
+
+}
+#leroilion{
+  margin: -400px -710px;
+
+}
+#Radin{
+  margin: -800px 450px;
+ 
+}
+#La_vie_scolaire{
+  margin: -800px 700px;
+}
+#Intouchables2{
+  margin: -800px 925px;
+}
+#Raid{
+  margin: -800px 1162px;
+}
+#Bondieu{
+  margin: -822px 1400px;
+}
+#Sonic{
+  margin: -450px 450px;
+}
+#Deadpool{
+  margin: -450px 700px;
+}
+#Chtis{
+  margin: -450px 925px;
+}
+#Lesprofs{
+  margin: -450px 1162px;
+}
+#Pikachu{
+  margin: -450px 1400px;
+}
+
+#Titans{
+  margin: -800px 500px;
+}
+#Note{
+  margin: -800px 1000px;
+}
+#Hunter{
+  margin: -800px 1500px;
+}
+#Naruto{
+  margin: -400px 500px;
+}
+#Seven{
+  margin: -400px 1000px;
+}
+#kuro{
+  margin: -400px 1500px;
+}
+
+#panther{
+  margin: -780px 400px;
+font-size: 30px;
+}
+#Warz{
+  margin: -780px 700px;
+font-size: 30px;
+}
+#John{
+  margin: -780px 1000px;
+font-size: 30px;
+}
+#transformer{
+  margin: -780px 1300px;
+font-size: 30px;
+}
+#Avengers{
+  margin: -780px  1600px;
+font-size: 30px;
+}
+#leroilion1{
+  margin: -780px 400px ;
+}
+#blancheneige{
+  margin: -780px 650px;
+}
+#Ralph{
+  margin: -780px 920px;
+}
+#Reine{
+  margin: -780px 1150px;
+}
+#toys{
+  margin: -780px 1380px;
+}
+#Pirate{
+  margin: -780px 1650px;
+}
+#Cars{
+  margin: -400px 400px;
+}
+#Aladin{
+  margin: -400px 650px;
+}
+#Cendrillon{
+  margin: -400px 890px;
+}
+#Pinocchio{
+  margin: -400px 1120px;
+}
+#Avant{
+  margin: -400px 1350px;
+}
+#Indestructibles{
+  margin: -400px 1620px;
+}
